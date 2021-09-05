@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 9ea43b4d27f8b448bbe49c5ce22b1032
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5491639459500141328
+    second: orb_door_spritesheet_0
+  - first:
+      213: -1772308636481229255
+    second: orb_door_spritesheet_1
+  - first:
+      213: 6286433079723250603
+    second: orb_door_spritesheet_2
+  - first:
+      213: -9222662477559291911
+    second: orb_door_spritesheet_3
+  - first:
+      213: -1320235469729382719
+    second: orb_door_spritesheet_4
+  - first:
+      213: 7919239358129033424
+    second: orb_door_spritesheet_5
+  - first:
+      213: -4751668250966796349
+    second: orb_door_spritesheet_6
+  - first:
+      213: -5110274051356406156
+    second: orb_door_spritesheet_7
+  - first:
+      213: -3822656902262542821
+    second: orb_door_spritesheet_8
+  - first:
+      213: 5684022757871664471
+    second: orb_door_spritesheet_9
+  - first:
+      213: 7204570296900295280
+    second: orb_door_spritesheet_10
+  - first:
+      213: -6273605850290272369
+    second: orb_door_spritesheet_11
+  - first:
+      213: -1071074874376059994
+    second: orb_door_spritesheet_12
+  - first:
+      213: -6282352007039286206
+    second: orb_door_spritesheet_13
+  - first:
+      213: 8933247900271372327
+    second: orb_door_spritesheet_14
+  - first:
+      213: -2533876194760383572
+    second: orb_door_spritesheet_15
+  - first:
+      213: 7997732037879823860
+    second: orb_door_spritesheet_16
+  - first:
+      213: 8951707754039568105
+    second: orb_door_spritesheet_17
+  - first:
+      213: 3501049843480433846
+    second: orb_door_spritesheet_18
+  - first:
+      213: 5842138917482213426
+    second: orb_door_spritesheet_19
+  - first:
+      213: 2265554435257074118
+    second: orb_door_spritesheet_20
+  - first:
+      213: 7753812954670582232
+    second: orb_door_spritesheet_21
+  - first:
+      213: -3412000840931896865
+    second: orb_door_spritesheet_22
+  - first:
+      213: 1971659971056573580
+    second: orb_door_spritesheet_23
+  - first:
+      213: 3851836477007514689
+    second: orb_door_spritesheet_24
+  - first:
+      213: -2010771168956572251
+    second: orb_door_spritesheet_25
+  - first:
+      213: 7312954958721242141
+    second: orb_door_spritesheet_26
+  - first:
+      213: 3793326818881389639
+    second: orb_door_spritesheet_27
+  - first:
+      213: -3764726483932324004
+    second: orb_door_spritesheet_28
+  - first:
+      213: 7738210289042310297
+    second: orb_door_spritesheet_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orb_door_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d9fde107c9c3b0800000000000000
+      internalID: -5491639459500141328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eed2a6fae7767e0800000000000000
+      internalID: -1772308636481229255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba35b2d3495ed3750800000000000000
+      internalID: 6286433079723250603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff11c52755820080800000000000000
+      internalID: -9222662477559291911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceb8eec5d49dade0800000000000000
+      internalID: -1320235469729382719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d2900d3ac6ed60800000000000000
+      internalID: 7919239358129033424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75f92b6eeae0eb0800000000000000
+      internalID: -4751668250966796349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e410063d8a419b0800000000000000
+      internalID: -5110274051356406156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e227afcc133fac0800000000000000
+      internalID: -3822656902262542821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1290
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3d224594b1ee40800000000000000
+      internalID: 5684022757871664471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a921a7386cbf360800000000000000
+      internalID: 7204570296900295280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c2a8d7bcafe8a0800000000000000
+      internalID: -6273605850290272369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a308f89317c221f0800000000000000
+      internalID: -1071074874376059994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244067a822a90d8a0800000000000000
+      internalID: -6282352007039286206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ed2a82a549fb70800000000000000
+      internalID: 8933247900271372327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32d72a60dd5dcd0800000000000000
+      internalID: -2533876194760383572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd76962ae6adfe60800000000000000
+      internalID: 7997732037879823860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e663ac26cada3c70800000000000000
+      internalID: 8951707754039568105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b49695884a369030800000000000000
+      internalID: 3501049843480433846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 645
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23033097462731150800000000000000
+      internalID: 5842138917482213426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10fc461cdd07f10800000000000000
+      internalID: 2265554435257074118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d946f10dc31b9b60800000000000000
+      internalID: 7753812954670582232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd19bee005326a0d0800000000000000
+      internalID: -3412000840931896865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c1fa02c4ebc5b10800000000000000
+      internalID: 1971659971056573580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ccce03ed8747530800000000000000
+      internalID: 3851836477007514689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad1fbd764e4814e0800000000000000
+      internalID: -2010771168956572251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d20d0ac5dc7560800000000000000
+      internalID: 7312954958721242141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444364d4aa94a430800000000000000
+      internalID: 3793326818881389639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f55b0953101cbc0800000000000000
+      internalID: -3764726483932324004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_door_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 220
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c3a35245a36b60800000000000000
+      internalID: 7738210289042310297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

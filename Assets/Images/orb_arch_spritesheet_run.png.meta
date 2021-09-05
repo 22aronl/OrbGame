@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: c62d56d61c8f54e8e9ad3972ec97b920
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -22033308611447140
+    second: orb_arch_spritesheet_run_0
+  - first:
+      213: 7560588587927560259
+    second: orb_arch_spritesheet_run_1
+  - first:
+      213: 2930166749632004178
+    second: orb_arch_spritesheet_run_2
+  - first:
+      213: 6404265296589124196
+    second: orb_arch_spritesheet_run_3
+  - first:
+      213: 6104934244267871470
+    second: orb_arch_spritesheet_run_4
+  - first:
+      213: 8631723669123844029
+    second: orb_arch_spritesheet_run_5
+  - first:
+      213: -5384577060800923096
+    second: orb_arch_spritesheet_run_6
+  - first:
+      213: -5330427799115772250
+    second: orb_arch_spritesheet_run_7
+  - first:
+      213: -3636451008896563040
+    second: orb_arch_spritesheet_run_8
+  - first:
+      213: 7809389234480652687
+    second: orb_arch_spritesheet_run_9
+  - first:
+      213: -6431311325430642975
+    second: orb_arch_spritesheet_run_10
+  - first:
+      213: -956614499261245853
+    second: orb_arch_spritesheet_run_11
+  - first:
+      213: -2142659699666616360
+    second: orb_arch_spritesheet_run_12
+  - first:
+      213: 3719831196197487688
+    second: orb_arch_spritesheet_run_13
+  - first:
+      213: -435777430352280726
+    second: orb_arch_spritesheet_run_14
+  - first:
+      213: -8911812259724443028
+    second: orb_arch_spritesheet_run_15
+  - first:
+      213: 8541236176131143142
+    second: orb_arch_spritesheet_run_16
+  - first:
+      213: -5883110502054540993
+    second: orb_arch_spritesheet_run_17
+  - first:
+      213: -4721597631744341872
+    second: orb_arch_spritesheet_run_18
+  - first:
+      213: 3562216461926914632
+    second: orb_arch_spritesheet_run_19
+  - first:
+      213: 13321884971983226
+    second: orb_arch_spritesheet_run_20
+  - first:
+      213: 2194418291230033202
+    second: orb_arch_spritesheet_run_21
+  - first:
+      213: -4978604762630975025
+    second: orb_arch_spritesheet_run_22
+  - first:
+      213: 61024259235593209
+    second: orb_arch_spritesheet_run_23
+  - first:
+      213: -2852916606745619988
+    second: orb_arch_spritesheet_run_24
+  - first:
+      213: -3926612822213166552
+    second: orb_arch_spritesheet_run_25
+  - first:
+      213: -7834089317702318319
+    second: orb_arch_spritesheet_run_26
+  - first:
+      213: 4725186734776987315
+    second: orb_arch_spritesheet_run_27
+  - first:
+      213: 833850076840495859
+    second: orb_arch_spritesheet_run_28
+  - first:
+      213: -2417080862055103215
+    second: orb_arch_spritesheet_run_29
+  - first:
+      213: -2058068502497731994
+    second: orb_arch_spritesheet_run_30
+  - first:
+      213: -6498273489787776480
+    second: orb_arch_spritesheet_run_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96fcf292d8b1bff0800000000000000
+      internalID: -22033308611447140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3406b44534b9ce860800000000000000
+      internalID: 7560588587927560259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2500a74522b0aa820800000000000000
+      internalID: 2930166749632004178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4627e822b5580e850800000000000000
+      internalID: 6404265296589124196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_4
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec44be895519b450800000000000000
+      internalID: 6104934244267871470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_5
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74579b1fa0ac770800000000000000
+      internalID: 8631723669123844029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a7e3121b32645b0800000000000000
+      internalID: -5384577060800923096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_7
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 924
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae46d498248606b0800000000000000
+      internalID: -5330427799115772250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a80c9bf21bb88dc0800000000000000
+      internalID: -3636451008896563040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81aaf10226806c60800000000000000
+      internalID: 7809389234480652687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e682cf8c646fb6a0800000000000000
+      internalID: -6431311325430642975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_11
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3669b886e2c69b2f0800000000000000
+      internalID: -956614499261245853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_12
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df73defa5eb342e0800000000000000
+      internalID: -2142659699666616360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_13
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84484c1b3ce7f9330800000000000000
+      internalID: 3719831196197487688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_14
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6348b66cbec3f9f0800000000000000
+      internalID: -435777430352280726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_15
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 616
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62472277f1e25480800000000000000
+      internalID: -8911812259724443028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5330d7c01988670800000000000000
+      internalID: 8541236176131143142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394bae1b2efa5ea0800000000000000
+      internalID: -5883110502054540993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988d8358f3897eb0800000000000000
+      internalID: -4721597631744341872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad33aaff88f6130800000000000000
+      internalID: 3562216461926914632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_20
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a716e7d0f245f2000800000000000000
+      internalID: 13321884971983226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_21
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c2613fc3247e10800000000000000
+      internalID: 2194418291230033202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_22
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1105e985178eab0800000000000000
+      internalID: -4978604762630975025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_23
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 308
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb3b6e8d3dc8d000800000000000000
+      internalID: 61024259235593209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15d1926776868d0800000000000000
+      internalID: -2852916606745619988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a7d79317ed189c0800000000000000
+      internalID: -3926612822213166552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117cba7b549b74390800000000000000
+      internalID: -7834089317702318319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_27
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be25c7dc4c339140800000000000000
+      internalID: 4725186734776987315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_28
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa820a1a3e629b00800000000000000
+      internalID: 833850076840495859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_29
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1158fcf13cdc47ed0800000000000000
+      internalID: -2417080862055103215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_30
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ad331e9954073e0800000000000000
+      internalID: -2058068502497731994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_run_31
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 0
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0229cdbb0be71d5a0800000000000000
+      internalID: -6498273489787776480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

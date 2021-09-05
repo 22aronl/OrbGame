@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 1b904f98570a44d5f8ed2d3246c16dce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -260260205450775551
+    second: orb_arch_spritesheet_jumpclimb_0
+  - first:
+      213: 7863364663275070045
+    second: orb_arch_spritesheet_jumpclimb_1
+  - first:
+      213: -8643137547336693293
+    second: orb_arch_spritesheet_jumpclimb_2
+  - first:
+      213: -7856436523202694515
+    second: orb_arch_spritesheet_jumpclimb_3
+  - first:
+      213: -196668060080766815
+    second: orb_arch_spritesheet_jumpclimb_4
+  - first:
+      213: -8762998287217066023
+    second: orb_arch_spritesheet_jumpclimb_5
+  - first:
+      213: -4341709379517488458
+    second: orb_arch_spritesheet_jumpclimb_6
+  - first:
+      213: 1621176893918798392
+    second: orb_arch_spritesheet_jumpclimb_7
+  - first:
+      213: -463198865231192811
+    second: orb_arch_spritesheet_jumpclimb_8
+  - first:
+      213: -3432397577317018086
+    second: orb_arch_spritesheet_jumpclimb_9
+  - first:
+      213: -9187284999628969487
+    second: orb_arch_spritesheet_jumpclimb_10
+  - first:
+      213: 367806582562570893
+    second: orb_arch_spritesheet_jumpclimb_11
+  - first:
+      213: -883901324394509247
+    second: orb_arch_spritesheet_jumpclimb_12
+  - first:
+      213: 5989514847254889016
+    second: orb_arch_spritesheet_jumpclimb_13
+  - first:
+      213: -963555544312412911
+    second: orb_arch_spritesheet_jumpclimb_14
+  - first:
+      213: -2750449829409135284
+    second: orb_arch_spritesheet_jumpclimb_15
+  - first:
+      213: 6213422112064464792
+    second: orb_arch_spritesheet_jumpclimb_16
+  - first:
+      213: -3727126146516766773
+    second: orb_arch_spritesheet_jumpclimb_17
+  - first:
+      213: -41847127101271589
+    second: orb_arch_spritesheet_jumpclimb_18
+  - first:
+      213: -8949884114154577163
+    second: orb_arch_spritesheet_jumpclimb_19
+  - first:
+      213: -4383015503682926349
+    second: orb_arch_spritesheet_jumpclimb_20
+  - first:
+      213: 8114297852773222006
+    second: orb_arch_spritesheet_jumpclimb_21
+  - first:
+      213: -6224646733015044766
+    second: orb_arch_spritesheet_jumpclimb_22
+  - first:
+      213: 8386007420310428863
+    second: orb_arch_spritesheet_jumpclimb_23
+  - first:
+      213: 6646542131209457012
+    second: orb_arch_spritesheet_jumpclimb_24
+  - first:
+      213: 7208439813526996943
+    second: orb_arch_spritesheet_jumpclimb_25
+  - first:
+      213: -7718045667329821447
+    second: orb_arch_spritesheet_jumpclimb_26
+  - first:
+      213: 5320339236237760798
+    second: orb_arch_spritesheet_jumpclimb_27
+  - first:
+      213: 7136502206016053449
+    second: orb_arch_spritesheet_jumpclimb_28
+  - first:
+      213: 8904144373214078698
+    second: orb_arch_spritesheet_jumpclimb_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bfe8d8be536cf0800000000000000
+      internalID: -260260205450775551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52aed5df78402d60800000000000000
+      internalID: 7863364663275070045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c72aa1386d0880800000000000000
+      internalID: -8643137547336693293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82391a7b9458f290800000000000000
+      internalID: -7856436523202694515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_4
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0883cf07b454df0800000000000000
+      internalID: -196668060080766815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_5
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff1137c73936680800000000000000
+      internalID: -8762998287217066023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e0eb92562fb3c0800000000000000
+      internalID: -4341709379517488458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_7
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832e910bbc39f7610800000000000000
+      internalID: 1621176893918798392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_8
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1020
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd78116136299f0800000000000000
+      internalID: -463198865231192811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169b1cc69cad50d0800000000000000
+      internalID: -3432397577317018086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 680
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f927da18f4308080800000000000000
+      internalID: -9187284999628969487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 680
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8241bb5326ba1500800000000000000
+      internalID: 367806582562570893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 680
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cc7f6bd60cbb3f0800000000000000
+      internalID: -883901324394509247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_13
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 680
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8324e8f05080f1350800000000000000
+      internalID: 5989514847254889016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_14
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 680
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11586eb6653c0a2f0800000000000000
+      internalID: -963555544312412911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e881e37074d9d0800000000000000
+      internalID: -2750449829409135284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897e825ad728a3650800000000000000
+      internalID: 6213422112064464792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf2cc35486964cc0800000000000000
+      internalID: -3727126146516766773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_18
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1124672445b6ff0800000000000000
+      internalID: -41847127101271589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_19
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2a7e211df9bc380800000000000000
+      internalID: -8949884114154577163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_20
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f803f12f966c23c0800000000000000
+      internalID: -4383015503682926349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_21
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676434cd7e6cb9070800000000000000
+      internalID: 8114297852773222006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_22
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da752a6cc9d99a0800000000000000
+      internalID: -6224646733015044766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_23
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 340
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc946b5155116470800000000000000
+      internalID: 8386007420310428863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d486b7ad24d3c50800000000000000
+      internalID: 6646542131209457012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc74f0681d5890460800000000000000
+      internalID: 7208439813526996943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f430968b5ef3e490800000000000000
+      internalID: -7718045667329821447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_27
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e195684d854a5d940800000000000000
+      internalID: 5320339236237760798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_28
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e06012f2f90360800000000000000
+      internalID: 7136502206016053449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orb_arch_spritesheet_jumpclimb_29
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 308
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e73a9120e19b70800000000000000
+      internalID: 8904144373214078698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

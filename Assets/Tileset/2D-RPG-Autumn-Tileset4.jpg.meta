@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: d707e2576b7c5f049b779fd021ad42ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4613024264546013451
+    second: 2D-RPG-Autumn-Tileset4_0
+  - first:
+      213: -8024474525467053057
+    second: 2D-RPG-Autumn-Tileset4_1
+  - first:
+      213: 7630875047561771774
+    second: 2D-RPG-Autumn-Tileset4_2
+  - first:
+      213: 874531626608414609
+    second: 2D-RPG-Autumn-Tileset4_3
+  - first:
+      213: -6943165266661370456
+    second: 2D-RPG-Autumn-Tileset4_4
+  - first:
+      213: 1235800298539971456
+    second: 2D-RPG-Autumn-Tileset4_5
+  - first:
+      213: -2098808861452846682
+    second: 2D-RPG-Autumn-Tileset4_6
+  - first:
+      213: 4055131423957604138
+    second: 2D-RPG-Autumn-Tileset4_7
+  - first:
+      213: -8036015135119357500
+    second: 2D-RPG-Autumn-Tileset4_8
+  - first:
+      213: 3527256350651738787
+    second: 2D-RPG-Autumn-Tileset4_9
+  - first:
+      213: -6949301498803481701
+    second: 2D-RPG-Autumn-Tileset4_10
+  - first:
+      213: 3227885737987760297
+    second: 2D-RPG-Autumn-Tileset4_11
+  - first:
+      213: -7843990440126727175
+    second: 2D-RPG-Autumn-Tileset4_12
+  - first:
+      213: 2245280866089865387
+    second: 2D-RPG-Autumn-Tileset4_13
+  - first:
+      213: 500953348393197885
+    second: 2D-RPG-Autumn-Tileset4_14
+  - first:
+      213: -2727563342560886671
+    second: 2D-RPG-Autumn-Tileset4_15
+  - first:
+      213: -2499779489497117060
+    second: 2D-RPG-Autumn-Tileset4_16
+  - first:
+      213: -2697606781201728471
+    second: 2D-RPG-Autumn-Tileset4_17
+  - first:
+      213: 7879524042779177481
+    second: 2D-RPG-Autumn-Tileset4_18
+  - first:
+      213: -5323232290766961118
+    second: 2D-RPG-Autumn-Tileset4_19
+  - first:
+      213: -861998398830213834
+    second: 2D-RPG-Autumn-Tileset4_20
+  - first:
+      213: 5148318532151504445
+    second: 2D-RPG-Autumn-Tileset4_21
+  - first:
+      213: 7094227499824126046
+    second: 2D-RPG-Autumn-Tileset4_22
+  - first:
+      213: 520107732958783775
+    second: 2D-RPG-Autumn-Tileset4_23
+  - first:
+      213: 3377893929110754004
+    second: 2D-RPG-Autumn-Tileset4_24
+  - first:
+      213: -3366485412820532702
+    second: 2D-RPG-Autumn-Tileset4_25
+  - first:
+      213: 6708017375847544143
+    second: 2D-RPG-Autumn-Tileset4_26
+  - first:
+      213: 7168777188044256232
+    second: 2D-RPG-Autumn-Tileset4_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 689
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d584b021c40040800000000000000
+      internalID: 4613024264546013451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 689
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff37d504fe653a090800000000000000
+      internalID: -8024474525467053057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 689
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efabf47fc6056e960800000000000000
+      internalID: 7630875047561771774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 689
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc6d481e5f22c00800000000000000
+      internalID: 874531626608414609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_4
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 689
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a591d7f9fbe4af90800000000000000
+      internalID: -6943165266661370456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 689
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083fbcfe2d1762110800000000000000
+      internalID: 1235800298539971456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 689
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a939a1e5788fd2e0800000000000000
+      internalID: -2098808861452846682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 489
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27548a8b88b64830800000000000000
+      internalID: 4055131423957604138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 489
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94c8dafc65a7090800000000000000
+      internalID: -8036015135119357500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 489
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa665476f453f030800000000000000
+      internalID: 3527256350651738787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 489
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b939ab61b1f1f8f90800000000000000
+      internalID: -6949301498803481701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 489
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a06f440af0cbcc20800000000000000
+      internalID: 3227885737987760297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_12
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 489
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbbfa2014c842390800000000000000
+      internalID: -7843990440126727175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_13
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 489
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0944c3d07d82f10800000000000000
+      internalID: 2245280866089865387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 289
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e40c8a6eb3f600800000000000000
+      internalID: 500953348393197885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1700848579fb52ad0800000000000000
+      internalID: -2727563342560886671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 289
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e87b77ccffe4dd0800000000000000
+      internalID: -2499779489497117060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 289
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c39ceccec209ad0800000000000000
+      internalID: -2697606781201728471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_18
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 289
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b0019e51b95d60800000000000000
+      internalID: 7879524042779177481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_19
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 289
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22642fb6f641026b0800000000000000
+      internalID: -5323232290766961118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_20
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 289
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63505c8f5019904f0800000000000000
+      internalID: -861998398830213834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e63739d60827740800000000000000
+      internalID: 5148318532151504445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 89
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5813d20352c37260800000000000000
+      internalID: 7094227499824126046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 89
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1921fb3a3bc73700800000000000000
+      internalID: 520107732958783775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 89
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d25895b1a0b0ee20800000000000000
+      internalID: 3377893929110754004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_25
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 89
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224c4b7a57d741d0800000000000000
+      internalID: -3366485412820532702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_26
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 89
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f457a82434aa71d50800000000000000
+      internalID: 6708017375847544143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D-RPG-Autumn-Tileset4_27
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 89
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33d47eedc9c7360800000000000000
+      internalID: 7168777188044256232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
